@@ -28,8 +28,9 @@ class UserAccount :
 
         if password_attempt == self.password:
             print(self.secret)
-            else
-                print ('incorrect')
+        else:
+            print ('incorrect')
+                
 
                 
             
